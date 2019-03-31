@@ -1,0 +1,21 @@
+          BubbleSort 100               random 9108 2887
+         CoctailSort 100               random 4089 2540
+     LomutoQuickSort 100               random 633 515
+      HoareQuickSort 100               random 563 185
+            HeapSort 100               random 836 491
+          BubbleSort 100               sorted 198 48
+         CoctailSort 100               sorted 197 0
+     LomutoQuickSort 100               sorted 3075 193
+      HoareQuickSort 100               sorted 484 80
+            HeapSort 100               sorted 836 479
+          BubbleSort 100    sorted descending 9900 4900
+         CoctailSort 100    sorted descending 4950 4900
+     LomutoQuickSort 100    sorted descending 3343 1992
+      HoareQuickSort 100    sorted descending 383 130
+            HeapSort 100    sorted descending 836 499
+          BubbleSort 100  10%fakeInformations 198 29
+         CoctailSort 100  10%fakeInformations 390 21
+     LomutoQuickSort 100  10%fakeInformations 2529 277
+      HoareQuickSort 100  10%fakeInformations 459 94
+            HeapSort 100  10%fakeInformations 834 481
+ 

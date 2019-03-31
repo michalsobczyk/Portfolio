@@ -1,0 +1,2218 @@
+# depslib dependency file v1.0
+1484857114 source:c:\uzytki\codeblocks\gkim-lab1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<math.h>
+	<SDL/SDL.h>
+	<iostream>
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255796864 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\begin_code.h
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\close_code.h
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255796864 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\begin_code.h
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\close_code.h
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\uzytki\codeblocks\gkim-lab1\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547298829 source:c:\users\wojtek\desktop\gkim-lab1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<vector>
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255793264 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\begin_code.h
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\close_code.h
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255793264 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_platform.h
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\begin_code.h
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\close_code.h
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_keysym.h
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255793250 c:\users\wojtek\desktop\gkim-lab1\sdl-1.2.14\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548167235 source:c:\users\hp omen\desktop\projekt\gkim-lab1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<vector>
+
+1547267612 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267622 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1547267620 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1547267612 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\begin_code.h
+
+1547267612 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\close_code.h
+
+1547267614 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267618 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267620 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1547267622 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267614 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1547267618 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267622 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267614 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267622 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1547267616 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267620 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267620 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267542 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267552 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1547267544 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1547267550 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_platform.h
+
+1547267542 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\begin_code.h
+
+1547267544 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\close_code.h
+
+1547267544 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267552 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1547267552 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267544 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267542 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_keysym.h
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267550 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267552 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1547267546 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267552 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547267550 c:\users\hp omen\desktop\projekt\gkim-lab1\sdl-1.2.14\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239254 source:c:\users\wojtek\desktop\projektgkim\gkim-lab1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<vector>
+
+1548239476 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1548239476 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1548239480 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1548239472 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\begin_code.h
+
+1548239472 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\close_code.h
+
+1548239476 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239474 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239478 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239474 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1548239480 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239478 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239368 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239382 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1548239372 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1548239376 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_platform.h
+
+1548239368 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\begin_code.h
+
+1548239368 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\close_code.h
+
+1548239368 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239376 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239380 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1548239376 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239372 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239372 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239370 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_keysym.h
+
+1548239376 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239384 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239376 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239384 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239382 c:\users\wojtek\desktop\projektgkim\gkim-lab1\sdl-1.2.14\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548627534 source:c:\users\wojtek\desktop\projektgkim\main.cpp
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
+1548239476 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1548239476 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1548239480 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1548239472 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\begin_code.h
+
+1548239472 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\close_code.h
+
+1548239476 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239474 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239478 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239474 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1548239480 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239478 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1548239480 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239368 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239382 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1548239372 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1548239376 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_platform.h
+
+1548239368 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\begin_code.h
+
+1548239368 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\close_code.h
+
+1548239368 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239376 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239380 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1548239376 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239372 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239372 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239370 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_keysym.h
+
+1548239376 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239384 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239376 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1548239374 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239384 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239382 c:\users\wojtek\desktop\projektgkim\sdl-1.2.14\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1549232622 source:c:\users\soczek\desktop\projektgkim\main.cpp
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+	<math.h>
+	<time.h>
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
+1548239476 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1548239476 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1548239480 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_platform.h
+
+1548239472 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\begin_code.h
+
+1548239472 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\close_code.h
+
+1548239476 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1548239484 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239476 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239474 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239478 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239474 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_keysym.h
+
+1548239480 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239478 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239480 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1548239480 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239484 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239368 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239382 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1548239372 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1548239376 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_platform.h
+
+1548239368 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\begin_code.h
+
+1548239368 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\close_code.h
+
+1548239368 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239376 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239380 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1548239376 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239372 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239372 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239370 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_keysym.h
+
+1548239376 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239384 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239374 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239376 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1548239374 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239384 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1548239382 c:\users\soczek\desktop\projektgkim\sdl-1.2.14\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
