@@ -66,6 +66,18 @@ public class Stos {
 		return counter;
 	}
 	
+	public int prioTop() {
+		if (stack.charAt(0) == '+' || stack.charAt(0) == '-') return 1;
+		else if (stack.charAt(0) == '*' || stack.charAt(0) == '/') return 2;
+		else if (stack.charAt(0) == '^') return 3;
+		else return 0;
+	}
+	
+	public boolean isEmpty() {
+		if (stack.length() == 0) return true;
+		else return false;
+	}
+	
 	public String getStack() {
 		return stack;
 	}
