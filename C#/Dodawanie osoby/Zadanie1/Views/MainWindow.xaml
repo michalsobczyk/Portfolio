@@ -19,17 +19,17 @@
             <RowDefinition Height="2*" />
         </Grid.RowDefinitions>
         <StackPanel Margin="10" VerticalAlignment="Center">
-            <ComboBox Height="40">
-                <ComboBoxItem>No coś wybieramy z boxa</ComboBoxItem>
-                <ComboBoxItem>I drugą rzecz wybieramy z boxa</ComboBoxItem>
+            <ComboBox Height="40" 
+                      ItemsSource="{Binding Path=Items}" 
+                      SelectedItem="{Binding Path=SItems}">
             </ComboBox>
         </StackPanel>
         <GroupBox Grid.Column="1" Header="Płeć">
-            <Grid>
-                <CheckBox Name="Man" Checked="aMan" Content="Mężczyzna" Margin="10"/>
-                <CheckBox Name="Woman" Checked="aWoman" Content="Kobieta" Margin="10,25,0,0"/>
-                <CheckBox Name="Ufolud" Checked="aUfolud" Content="Ufolud" Margin="10,40,0,0"/>
-            </Grid>
+            <StackPanel Margin="10,10,0,0">
+                <RadioButton Name="Man" Content="Mężczyzna"/>
+                <RadioButton Name="Woman" Content="Kobieta"/>
+                <RadioButton Name="Ufolud" Content="Ufolud"/>
+            </StackPanel>
         </GroupBox>
         <Grid Grid.Row="1" Grid.ColumnSpan="2">
             <Grid.ColumnDefinitions>
@@ -42,14 +42,14 @@
             </Grid.RowDefinitions>
             <Label Grid.Row="0" Grid.Column="0" Content="Imie:" VerticalAlignment="Center"/>
             <Label Grid.Row="1" Grid.Column="0" Content="Nazwisko:" VerticalAlignment="Center"/>
-            <TextBox Grid.Column="1" Grid.ColumnSpan="3" Name="aImie" Margin="2"/>
-            <TextBox Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Name="aNazwisko" Margin="2"/>
+            <TextBox x:Name="txtName" Grid.Column="1" Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Margin="2"/>
+            <TextBox x:Name="txtSurname" Grid.Row="1" Grid.Column="1" Text="{Binding Surname, UpdateSourceTrigger=PropertyChanged}" Margin="2"/>
         </Grid>
         <GroupBox Grid.Row="2" Grid.RowSpan="2" Grid.ColumnSpan="2" Header="Obrazek">
-            <Grid>
-                <Button Click="photoChoose" Height="20" Margin="2" VerticalAlignment="Top" Content="Wybierz..."></Button>
-                <Image Name="imgDynamic" Margin="5,25,5,5"/>
-            </Grid>
+            <DockPanel>
+                <Button DockPanel.Dock="Top" Command="{Binding SelectImage}" Height="20" Margin="2" Content="Wybierz..."></Button>
+                <Image Source="{Binding Image}" Margin="5"/>
+            </DockPanel>
         </GroupBox>
         <Grid Grid.Column="2" Grid.RowSpan="4">
             <Grid.RowDefinitions>
@@ -61,14 +61,23 @@
                 <ColumnDefinition Width="1*"/>
                 <ColumnDefinition Width="1*"/>
             </Grid.ColumnDefinitions>
-            <ListView Grid.ColumnSpan="3" Margin="2,10,10,5" Name="listView">
-                
+            <ListView Grid.ColumnSpan="3" Margin="2,10,10,5" Name="listView" ItemsSource="{Binding People}" SelectedItem="{Binding Selection}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <DockPanel>
+                            <Image Source="{Binding Image}" Height="90"/>
+                            <StackPanel Orientation="Vertical" Margin="5,0,0,0">
+                                <TextBlock Text="{Binding FirstName}"/>
+                                <TextBlock Text="{Binding LastName}"/>
+                                <TextBlock Text="{Binding WorkName}"/>
+                            </StackPanel>
+                        </DockPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
             </ListView>
-            <Button Click="add" Grid.Row="1" Grid.Column="0" Height="20" Margin="2,0,5,0" Content="Dodaj"/>
-            <Button Click="del" Grid.Row="1" Grid.Column="1" Height="20" Margin="2,0,5,0" Content="Usuń zaznaczone"/>
-            <Button Click="delAll" Grid.Row="1" Grid.Column="2" Height="20" Margin="2,0,5,0" Content="Usuń wszystko"/>
+            <Button Grid.Row="1" Grid.Column="0" Height="20" Margin="2,0,5,0" Content="Dodaj" Command="{Binding AddButtonCommand}"/>
+            <Button Grid.Row="1" Grid.Column="1" Height="20" Margin="2,0,5,0" Content="Usuń zaznaczone" Command="{Binding RemoveCheckedButtonCommand}"/>
+            <Button Grid.Row="1" Grid.Column="2" Height="20" Margin="2,0,5,0" Content="Usuń wszystko" Command="{Binding RemoveAllButtonCommand}"/>
         </Grid>
-
-
     </Grid>
 </Window>

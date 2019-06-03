@@ -13,3 +13,18 @@ B:\Users\Soczek\source\repos\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.Generat
 B:\Users\Soczek\source\repos\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
 B:\Users\Soczek\source\repos\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
 B:\Users\Soczek\source\repos\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\bin\Debug\Zadanie1.exe.config
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\bin\Debug\Zadanie1.exe
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\bin\Debug\Zadanie1.pdb
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\App.g.cs
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1_MarkupCompile.cache
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1_MarkupCompile.lref
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1.g.resources
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1.Properties.Resources.resources
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1.csproj.GenerateResource.cache
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1.exe
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Zadanie1.pdb
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Views\MainWindow.g.cs
+D:\Portfolio\Portfolio\C#\Dodawanie osoby\Zadanie1\obj\Debug\Views\MainWindow.baml
