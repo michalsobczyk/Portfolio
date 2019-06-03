@@ -153,7 +153,7 @@ namespace Zadanie1.ViewModels
         }
         public MainWindowViewModel()
         {
-            Items = new List<string>() { "Cieć", "Programista", "Bezrobotny" };
+            Items = new List<string>() { "Wizualny Narrator", "Programista", "Bezrobotny" };
             People = new ObservableCollection<Person>();
             SelectImage = new RelayCommand(SelectImage_Execute);
             AddButtonCommand = new RelayCommand(AddButtonCommand_Execute, AddButton_CanExecute);
