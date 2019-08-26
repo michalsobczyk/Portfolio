@@ -13,3 +13,18 @@ C:\Users\michal.sobczyk\Desktop\WPF apps\InternetShop\InternetShop\obj\Debug\Int
 C:\Users\michal.sobczyk\Desktop\WPF apps\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CoreCompileInputs.cache
 C:\Users\michal.sobczyk\Desktop\WPF apps\InternetShop\InternetShop\obj\Debug\InternetShop.exe
 C:\Users\michal.sobczyk\Desktop\WPF apps\InternetShop\InternetShop\obj\Debug\InternetShop.pdb
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\bin\Debug\InternetShop.exe.config
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\bin\Debug\InternetShop.exe
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\bin\Debug\InternetShop.pdb
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop.csprojAssemblyReference.cache
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\Views\MainWindow.g.cs
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\App.g.cs
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop_MarkupCompile.cache
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop_MarkupCompile.lref
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\Views\MainWindow.baml
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop.g.resources
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop.Properties.Resources.resources
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.GenerateResource.cache
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CoreCompileInputs.cache
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop.exe
+C:\Users\michal.sobczyk\Documents\GitHub\Portfolio\C#\InternetShop\InternetShop\obj\Debug\InternetShop.pdb

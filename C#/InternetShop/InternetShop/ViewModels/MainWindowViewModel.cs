@@ -223,6 +223,20 @@ namespace InternetShop.ViewModels
             }
         }
 
+        private int _totalAmount;
+        public int TotalAmount
+        {
+            get
+            {
+                return _totalAmount;
+            }
+            set
+            {
+                _totalAmount = value;
+                OnPropertyRaised("TotalAmount");
+            }
+        }
+
         public ICommand AddButton { get; set; }
         public void AddButton_Execute(object obj)
         {
@@ -260,6 +274,7 @@ namespace InternetShop.ViewModels
         {
             Cart.Add(new Product { Name = Selection.Name, Prize = Selection.Prize, Description = Selection.Description, Image = Selection.Image, Amount = Selection.Amount });
             CartValue += (Selection.Prize * Selection.Amount);
+            TotalAmount += Selection.Amount;
         }
         public bool AddToCart_CanExecute (object obj)
         {
